@@ -1,4 +1,4 @@
-## Hi there 👋
+## <center>Hi there 👋 I'm Yubli Audy Warokka 🫰💖✨</center>
 
 <!--
 **yubliwarokkaid/yubliwarokkaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
