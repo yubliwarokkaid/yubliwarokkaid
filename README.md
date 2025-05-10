@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubliwarokkaid&layout=compact" width='350' style="max-width: 100%;"></div>
-
-<!-- ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
