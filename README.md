@@ -1,6 +1,6 @@
 ![Header](./img/github-header.png)
 
-## <h2 align="center">Hi there 👋 I'm Yubli Audy Warokka 🫰💖✨</h2>
+## <h2 align="center">Hi there 👋 I'm Yubliwarokkaid 🫰💖✨</h2>
 
 <!--
 **yubliwarokkaid/yubliwarokkaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <h2 align="center">My Skills✨</h2>
+
+<!-- <p align="center">
+    <img width="200" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Material Bread logo">
+</p> -->
+
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
