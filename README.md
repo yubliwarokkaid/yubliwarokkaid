@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia,<br>who continues to learn and learn every day.</p>
 
-###### <p align="center">✨My Skills</p>
+##### <p align="center">✨My Skills</p>
 
 <div align="center">
     <img  src="https://img.shields.io/badge/Wordpress-52525b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <div align='center'><img src="https://github-readme-stats.vercel.app/api?username=yubliwarokkaid&show_icons=true&theme=nord" width='350' style="max-width: 100%;"></div>
 
-###### <p align="center">💻My Workspace</p>
+##### <p align="center">💻My Workspace</p>
 
 <div align="center">
     <img  src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows">
@@ -40,5 +40,7 @@ Here are some ideas to get you started:
     <img  src="https://img.shields.io/badge/NVME-512GB-%230071C5.svg?&style=for-the-badge&logoColor=white" alt="Ram">
     <img  src="https://img.shields.io/badge/NVIDIA-GTX_1650_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
 </div>
+<br>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubliwarokkaid&layout=donut" width='350' style="max-width: 100%;"></div>
 
 <!-- ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
