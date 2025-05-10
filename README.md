@@ -2,6 +2,10 @@
 
 ## <h2 align="center">Hi there 👋 I'm Yubliwarokkaid 🫰💖✨</h2>
 
+<div align='center'>
+<a href='https://github.com/sponsors/yubliwarokkaid'><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+<a href='buymeacoffee.com/yubliwarokka'><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+</div>
 <!--
 **yubliwarokkaid/yubliwarokkaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 <p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia,<br>who continues to learn and learn every day.</p>
 
@@ -41,12 +45,6 @@ Here are some ideas to get you started:
     <img  src="https://img.shields.io/badge/NVIDIA-GTX_1650_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
 </div>
 <br>
-<div align='center'>
-
-<a href='https://github.com/sponsors/yubliwarokkaid'><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" style="max-width: 100%;" target='_blank'></a>
-
-</div>
-
 <div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubliwarokkaid&layout=compact" width='350' style="max-width: 100%;"></div>
 
 <!-- ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
