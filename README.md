@@ -19,14 +19,27 @@ Here are some ideas to get you started:
 
 <p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia,<br>who continues to learn and learn every day.</p>
 
+###### <p align="center">✨My Skills</p>
+
 <div align="center">
-    <img  src="https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img  src="https://img.shields.io/badge/CSS3-214CE5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img  src="https://img.shields.io/badge/Wordpress-52525b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     <img  src="https://img.shields.io/badge/Tailwind_CSS-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img  src="https://img.shields.io/badge/next%20js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
     <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS">
     <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+</div>
+
+#### 🎧Listen Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1Iwfzvb1MBg8iX9sK5edhO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+###### <p align="center">💻My Workspace</p>
+
+<div align="center">
+    <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img  src="https://img.shields.io/badge/intel-core%20i5%2014th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
+    <img  src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" alt="Ram">
+    <img  src="https://img.shields.io/badge/NVIDIA-GTX1650SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
 </div>
 
 <!-- ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
