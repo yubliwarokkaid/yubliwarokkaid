@@ -9,7 +9,7 @@
 
 <p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia,<br>who continues to learn and learn every day.</p>
 
-##### <p align="center">✨My Skills</p>
+#### <p align="center">✨My Skills</p>
 
 <div align="center">
     <img  src="https://img.shields.io/badge/Wordpress-52525b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
@@ -18,10 +18,10 @@
     <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS">
     <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
 </div>
-<!-- <br>
+<br>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=yubliwarokkaid&show_icons=true&theme=nord" width='350' style="max-width: 100%;">
-</div> -->
+</div>
 
 <!-- ##### <p align="center">💻My Workspace</p>
 
