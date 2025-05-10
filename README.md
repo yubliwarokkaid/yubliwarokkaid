@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img  src="https://img.shields.io/badge/CSS3-214CE5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img  src="https://img.shields.io/badge/Wordpress-52525b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     <img  src="https://img.shields.io/badge/Tailwind_CSS-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img  src="https://img.shields.io/badge/next%20js-020617?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
+    <img  src="https://img.shields.io/badge/next%20js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
     <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS">
     <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
 </div>
