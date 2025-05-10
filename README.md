@@ -1,6 +1,6 @@
 ![Header](./img/github-header.png)
 
-## <p align="center">Hi there 👋 I'm Yubli Audy Warokka 🫰💖✨</p>
+## <h2 align="center">Hi there 👋 I'm Yubli Audy Warokka 🫰💖✨</h2>
 
 <!--
 **yubliwarokkaid/yubliwarokkaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
