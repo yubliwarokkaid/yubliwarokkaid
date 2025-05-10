@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <h2 align="center">My Skills✨</h2>
+<p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia, who continues to learn every day.</p>
 
 <div align="center">
     <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
