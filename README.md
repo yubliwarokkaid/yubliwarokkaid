@@ -3,8 +3,18 @@
 ## <h2 align="center">Hi there 👋 I'm Yubliwarokkaid 🫰💖✨</h2>
 
 <div align='center'>
-<a href='https://github.com/sponsors/yubliwarokkaid'><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
-<a href='buymeacoffee.com/yubliwarokka'><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<a href='https://github.com/sponsors/yubliwarokkaid'>
+<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
+</a>
+<a href='https://saweria.co/yubliwarokka'>
+    <img src="./img/saweria.svg">
+</a>
+<a href='https://trakteer.id/yubliwarokka/tip'>
+    <img src="./img//trakteer.svg">
+</a>
+<a href='buymeacoffee.com/yubliwarokka'>
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+ </a>
 </div>
 
 <p align="center">Let me introduce myself, I am a web designer and mobile designer from Indonesia,<br>who continues to learn and learn every day.</p>
@@ -33,4 +43,6 @@
     <img  src="https://img.shields.io/badge/NVIDIA-GTX_1650_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
 </div>
 <br>
-<div align='center'><img src="./img/github-user-contribution.svg"  style="max-width: 100%;"></div>
+<div align='center'>
+    <img src="./img/github-user-contribution.svg"  style="max-width: 100%;">
+</div>
