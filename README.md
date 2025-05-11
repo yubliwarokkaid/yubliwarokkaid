@@ -32,5 +32,5 @@
     <img  src="https://img.shields.io/badge/NVME-512GB-%230071C5.svg?&style=for-the-badge&logoColor=white" alt="Ram">
     <img  src="https://img.shields.io/badge/NVIDIA-GTX_1650_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
 </div>
-<!-- <br>
-<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubliwarokkaid&layout=compact" width='350' style="max-width: 100%;"></div> -->
+<br>
+<div align='center'><img src="./img/github-user-contribution.svg"  style="max-width: 100%;"></div>
