@@ -12,7 +12,7 @@
 <a href='https://trakteer.id/yubliwarokka/tip'>
     <img src="./img//trakteer.svg">
 </a>
-<a href='buymeacoffee.com/yubliwarokka'>
+<a href='https://buymeacoffee.com/yubliwarokka'>
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
  </a>
 </div>
